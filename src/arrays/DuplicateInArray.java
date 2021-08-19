@@ -21,5 +21,5 @@ public class DuplicateInArray {
         int[] numbers = {1, 2, 2, 3, 4};
         System.out.println(findDuplicate(numbers));
     }
-
+//testing git
 }
